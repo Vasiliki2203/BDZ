@@ -63,3 +63,11 @@ div.container {
 ul {
     list-style: none;
 }
+
+#welcome {
+    font-size: 80px;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    background-color: #980100;
+    color: black;
+}
