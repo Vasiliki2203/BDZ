@@ -1,4 +1,17 @@
 
-#logo {
+body {
     background-color: black;
+}
+
+h1, h2, h3, p {
+    color: #980100;
+}
+
+.container {
+    color: #905fc3;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
 }
