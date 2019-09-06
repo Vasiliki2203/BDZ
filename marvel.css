@@ -57,5 +57,9 @@ div.container {
     text-align: center;
   }
  #link {
-    margin-bottom: 60px;
+    margin-bottom: 100px;
+}
+
+ul {
+    list-style: none;
 }
