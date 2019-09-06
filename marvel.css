@@ -5,13 +5,44 @@ body {
 
 h1, h2, h3, p {
     color: #980100;
+    font-family: 'Chilanka', cursive;
+    text-align: center;
 }
 
 .container {
-    color: #905fc3;
+    color: #6f1f73;
     text-align: center;
+    font-size: 15px;
+    font-family: 'Chilanka', cursive;
 }
 
 p {
     font-size: 20px;
 }
+
+ol {
+    color: #6f1f73;
+    font-family: 'Chilanka', cursive;
+    font-size: 20px;
+}
+
+#here {
+    color: #6f1f73;
+}
+div.container {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  div.container {width: 100%}
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+  h1, h2 {
+      text-decoration: underline;
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }

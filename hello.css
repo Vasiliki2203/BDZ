@@ -1,0 +1,25 @@
+body {
+    background-color: #980100;
+}
+h1, h2, h3, p {
+    color: black;
+    font-family: 'Chilanka', cursive;
+}
+p {
+    font-size: 20px;
+}
+
+#thor {
+    padding: 10px
+}
+
+h1, h2 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.framed-pic {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
